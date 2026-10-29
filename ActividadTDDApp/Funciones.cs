@@ -21,5 +21,10 @@ namespace ActividadTDDApp
 
             return resultado;
         }
+
+        public static bool EsContrasenyaValida(string contrasenya)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
